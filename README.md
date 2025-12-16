@@ -25,7 +25,7 @@ Operates in Russian
    ```
    You can specify other host/port in cmd:
    ```bash
-   python main.py --host localhost --port 9002
+   python main.py --host localhost --port 9001
    ```
 
 ## Client-side (async supported)
