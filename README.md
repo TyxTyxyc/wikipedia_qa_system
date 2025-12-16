@@ -1,6 +1,7 @@
 # wikipedia_qa_system
 
 An agent which can make queries to Wikipedia in order to answer person's questions
+
 Operates in Russian
 
 ## Prerequisites
